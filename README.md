@@ -9,5 +9,3 @@ a full stack developer who is passionate about all things developing.
 - Gmail : www.sabarivijay281099@gmail.com
 
 
-<!-- Hi, I'm Sabari Manikandan a full stack developer currently working @[Novac Technology Solutions]("https://www.novactech.in/") -->
-
