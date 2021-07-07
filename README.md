@@ -2,6 +2,8 @@
 a full stack developer who is passionate about all things developing.
 
 ## REACH ME 
+- Linkedin : https://www.linkedin.com/in/sabari-manikandan-5246b7205/
+- Gmail : www.sabarivijay281099@gmail.com
 
 <!--
 **Sabari2810/Sabari2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
