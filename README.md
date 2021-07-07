@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Sabari 👋
 
 <!--
 **Sabari2810/Sabari2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Sabari Manikandan a full stack developer currently working @[a]("www.google.com")
+<!-- Hi, I'm Sabari Manikandan a full stack developer currently working @[Novac Technology Solutions]("https://www.novactech.in/") -->
 
