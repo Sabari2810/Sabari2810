@@ -1,5 +1,4 @@
 ## Hi, I'm Sabari 👋
----
 ### a full-stack developer and Machine Learning enthusiast
 
 <!--
