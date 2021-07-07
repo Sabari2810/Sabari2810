@@ -1,5 +1,4 @@
 # Hi, I'm Sabari 👋
-### a full-stack developer and Machine Learning enthusiast
 a full stack developer who is passionate about all things developing.
 
 ## REACH ME 
