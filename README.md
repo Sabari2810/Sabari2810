@@ -1,8 +1,6 @@
 # Hi👋
 I'm Sabari, a full-stack developer, who is passionate about JS Frameworks, Deep Learning and Machine Learning.
 
-- 🌱 I’m currently learning MachineLearning, Datastructures and Algorithms.
-
 ## Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-343b36?style=flat-square&logo=javascript)
