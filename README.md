@@ -1,5 +1,5 @@
 # Hi👋
-I'm Sabari, a full-stack developer working as a Software Engineer at [Novac Tech](https://www.novactech.in/), who is passionate about Mobile Application development, Deep Learning and Machine Learning.
+I'm Sabari, a full-stack developer, who is passionate about JS Frameworks, Deep Learning and Machine Learning.
 
 - 🌱 I’m currently learning MachineLearning, Datastructures and Algorithms.
 
