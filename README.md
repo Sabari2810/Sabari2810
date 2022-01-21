@@ -15,6 +15,7 @@ I'm Sabari, a full-stack developer, who is passionate about JS Frameworks, Deep 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-343b36?style=flat-square&logo=typescript)
 ![Git](https://img.shields.io/badge/-Git-343b36?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-343b36?style=flat-square&logo=github)
+![Tailwind](https://img.shields.io/badge/-GitHub-343b36?style=flat-square&logo=tailwindcss)
 
 
 ## Reach me at 
