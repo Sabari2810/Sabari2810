@@ -1,5 +1,5 @@
 # Hi👋
-I'm Sabari, a full-stack developer, who is passionate about JS Frameworks, Deep Learning and Machine Learning.
+I'm a passionate full-stack developer with over 4 years of experience in building robust applications. I have a deep understanding of both frontend and backend technologies, and I love working on innovative projects that make an impact. When I'm not coding, I enjoy reading books.
 
 ## Technologies
 
