@@ -1,6 +1,6 @@
 # Sabari Manikandan
 
-Full-stack engineer with 4+ years shipping production systems — backend services, cloud infrastructure, and modern web frontends. I design for security and reliability first, then move fast.
+Full-stack engineer with 5+ years shipping production systems - backend services, cloud infrastructure, and modern web frontends. I design for security and reliability first, then move fast.
 
 ## What I do
 
